@@ -40,6 +40,11 @@ You may also see any lint errors in the console.
 ![image](https://github.com/Beast1610/Loungify/assets/111764205/7070a49f-1453-49b6-99a7-cebe3b20d74c)
 ![image](https://github.com/Beast1610/Loungify/assets/111764205/48f01038-fc5a-48b8-b6bf-60fc84ccd0fc)
 
+#Contributors
+Harsan Singh
+Ishaan Rawat
+Manish Goyal 
+
 
 
 
