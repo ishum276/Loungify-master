@@ -19,7 +19,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To run this project locally, follow these steps:
 
-1. Clone this repository using `git clone https://github.com/Beast1610/music_app.git` 
+1. Clone this repository using `git clone https://github.com/ishum276/Loungify-master.git` 
 2. Install dependencies using `npm install`
 3. Start the development server using `npm start`
 
